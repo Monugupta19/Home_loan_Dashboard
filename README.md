@@ -1,4 +1,5 @@
 # 🏠 Home Loan Dashboard | Power BI
+<img width="872" height="488" alt="Screenshot 2026-01-11 211107" src="https://github.com/user-attachments/assets/9851e11d-9c85-42cf-a1d8-5695e069ac03" />
 
 A Power BI interactive dashboard built to analyze **Home Loan applications** and identify key insights related to **loan approval trends, applicant demographics, income patterns, and risk factors**.
 
